@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        montserrat: ['Montserrat'],
+        poppins: ['Poppins'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
