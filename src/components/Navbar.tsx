@@ -11,7 +11,7 @@ const Navbar: React.FC = () => {
     return (
         <header className="fixed top-0 left-0 w-full bg-white border-b-2 border-black z-50">
             <div className="container mx-auto px-4 flex items-center justify-between py-4">
-                <div className="text-xl font-bold italic">GogoroOto</div>
+                <Link href="/" className="text-xl font-bold italic">GogoroOto</Link>
                 {/* Menu Hamburger Icon */}
                 <div className="md:hidden" onClick={toggleMenu}>
                     <button className="text-black">

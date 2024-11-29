@@ -53,10 +53,10 @@ export default function CarDetail() {
 
                     {/* Tombol Chat */}
                     <a
-                        href={`https://wa.me/1234567890`}
+                        href={`https://wa.me/6285883311259`}
                         className="mt-4 flex border bg-red-500 text-white px-4 py-2 rounded hover:bg-white hover:border-red-500 hover:text-black transition ease-in-out"
                     >
-                        Chat
+                        Chat With Seller
                     </a>
                 </div>
             </div>
