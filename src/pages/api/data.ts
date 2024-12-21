@@ -10,6 +10,42 @@ const CARS: {
   detailsLink: string;
 }[] = [
     {
+      name: "Mazda 3 Hatchback",
+      description:
+        "Mazda 3 Hatchback comes with a sporty design and superior performance. Equipped with advanced technology for driving comfort.",
+      price: "Rp 450.000.000",
+      year: "2023",
+      fuelType: "Petrol",
+      mileage: "10.000 KM",
+      transmission: "Automatic",
+      image: "/img/Mazda3.jpg",
+      detailsLink: "https://example.com/mazda-3-hatchback-details",
+    },
+    {
+      name: "Mazda Miata Roadster",
+      description:
+        "Mazda Miata Roadster, the iconic 2-seater sports car. Offers a fun driving experience with excellent handling.",
+      price: "Rp 500.000.000",
+      year: "2023",
+      fuelType: "Petrol",
+      mileage: "5.000 KM",
+      transmission: "Manual",
+      image: "/img/miata.jpeg",
+      detailsLink: "https://example.com/mazda-miata-roadster-details",
+    },
+    {
+      name: "Nissan Skyline R34",
+      description:
+        "Nissan Skyline R34, a legendary car with high performance. Known as a JDM icon with an amazing turbocharged engine.",
+      price: "Rp 1.500.000.000",
+      year: "2002",
+      fuelType: "Petrol",
+      mileage: "25.000 KM",
+      transmission: "Manual",
+      image: "/img/r34.jpg",
+      detailsLink: "https://example.com/nissan-skyline-r34-details",
+    },
+    {
       name: 'Toyota Fortuner 2022',
       description: `SUV with luxurious design and advanced features, perfect for family trips and off-road driving.`,
       price: 'Rp 600.000.000',
